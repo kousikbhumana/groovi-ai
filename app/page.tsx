@@ -66,7 +66,7 @@ const styles: Record<string, React.CSSProperties> = {
     justifyContent: 'center',
     backgroundColor: '#09090b',
     color: '#fafafa',
-    fontFamily: "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+    fontFamily: 'inherit',
     padding: '2rem',
     boxSizing: 'border-box',
   },
